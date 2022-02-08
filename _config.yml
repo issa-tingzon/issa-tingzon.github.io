@@ -79,7 +79,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
+theme: jekyll-theme-slate
 # remote_theme: hydecorp/hydejack@v9
 
 
