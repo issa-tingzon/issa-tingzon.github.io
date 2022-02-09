@@ -12,7 +12,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         issa_tingzon
+    #twitter:         issa_tingzon
     github:          issatingzon425
     email:           issatingzon[at]gmail[dot]com
     # rss:             https://<url>/feed.xml
@@ -43,7 +43,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:          issatingzon
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
