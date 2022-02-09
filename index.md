@@ -5,7 +5,6 @@ description: >
 hide_description: true
 ---
 
-<link rel=“stylesheet” type=“text/css” href=“_sass/my-inline.css”>
 <h1 class="h1" style="color: rgb(0,82,116)" id="about">About Me</h1>
 Hello, I'm currently a researcher at <a href="https://www.fbk.eu/en/about-fbk/"> FBK </a>, under the <a href="https://ict.fbk.eu/units/mobs/"> Mobile and Social Computing Lab </a> led by <a href="https://datapopalliance.org/bio/bruno-lepri/"> Dr. Bruno Lepri </a>, and a consultant at <a href="https://mindearth.ch/"> MindEarth </a>. Previously, I was a machine learning researcher at <a href="https://thinkingmachin.es/"> Thinking Machines Data Science </a>, where I worked on using ML and earth observation data for problems like poverty mapping and informal settlement detection. My research focuses on applications of machine learning and geospatial data for socioeconomic development, environmental sustainability, and humanitarian response. If you're interested in collaborating on impact-driven research, feel free to contact me and checkout some of our work below!
 
