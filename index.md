@@ -6,11 +6,12 @@ hide_description: true
 ---
 
 <h1 class="h1" style="color: rgb(0,82,116)" id="about">About Me</h1>
-Hello, I'm currently a researcher at <a href="https://www.fbk.eu/en/about-fbk/"> FBK </a>, under the <a href="https://ict.fbk.eu/units/mobs/"> Mobile and Social Computing Lab </a> led by <a href="https://datapopalliance.org/bio/bruno-lepri/"> Dr. Bruno Lepri </a>, and a consultant at <a href="https://mindearth.ch/"> MindEarth </a>. Previously, I was a machine learning researcher at <a href="https://thinkingmachin.es/"> Thinking Machines Data Science </a>, where I worked on using ML and earth observation data for problems like poverty mapping and informal settlement detection. My research focuses on applications of machine learning and geospatial data for socioeconomic development, environmental sustainability, and humanitarian response. If you're interested in collaborating with me on impact-driven research, feel free to contact me and checkout some of our work below!
+Hello, I'm currently a researcher at <a href="https://www.fbk.eu/en/about-fbk/"> FBK </a>, under the <a href="https://ict.fbk.eu/units/mobs/"> Mobile and Social Computing Lab </a> led by <a href="https://datapopalliance.org/bio/bruno-lepri/"> Dr. Bruno Lepri </a>, and a consultant at <a href="https://mindearth.ch/"> MindEarth </a>. Previously, I was a machine learning researcher at <a href="https://thinkingmachin.es/"> Thinking Machines Data Science </a>, where I worked on using ML and earth observation data for problems like poverty mapping and informal settlement detection. My research focuses on applications of machine learning and geospatial data for socioeconomic development, environmental sustainability, and humanitarian response. If you're interested in collaborating with me on impact-driven research, feel free to reach out and checkout some of our work below!
 
-<b>Research Interests</b>: Machine learning, computer vision, remote sensing, social computing
+<b>Contact me</b>: issatingzon[at]gmail[dot]com
 
 <h1 class="h1" style="color: rgb(0,82,116)" id="research">Research</h1>
+My research interests like at the intersection of machine learning, computer vision, remote sensing, and social computing. See my <a href="https://scholar.google.com/citations?user=MGeQcRMAAAAJ&hl=en"> Google Scholars profile </a> for more info.
 
 <div class="image-text-container">
   	<div class="text-container">
@@ -49,10 +50,9 @@ Hello, I'm currently a researcher at <a href="https://www.fbk.eu/en/about-fbk/">
 </div>
 
 
-
 <h1 class="h1" style="color: rgb(0,82,116)" id="tutorials">Tutorials</h1>
-I help co-lead tutorials at <a href="https://www.climatechange.ai/">Climate Change AI (CCAI) </a> and am a tech lead for the ML/AI study group at <a href="https://www.womenwhocode.com/manila/about">Women Who Code Manila</a>. Check out some of our work here:
+I help co-lead tutorials at <a href="https://www.climatechange.ai/">Climate Change AI (CCAI) </a> and am a tech lead for the ML/AI Study Group at <a href="https://www.womenwhocode.com/manila/about">Women Who Code Manila</a>. Check out some of our work here:
 
-* <a href="https://colab.research.google.com/drive/1VI8kVLjJMSabIt9Bu4di_zYe9LtrMO5L?usp=sharing"> Crop Field Delineation using Semantic Segmentation in Pytorch </a> by Issa Tingzon. [<a href="https://colab.research.google.com/drive/1VI8kVLjJMSabIt9Bu4di_zYe9LtrMO5L?usp=sharing">Part 1</a>] [<a href="https://colab.research.google.com/drive/1SUtvdW2ILUtf7vhLPZCTdpbf3pqisiU9?usp=sharing">Part 2</a>]
-* <a href="https://colab.research.google.com/drive/1Wj0LsIuotZssoQUw0QUryWk9WbOFIzV8?usp=sharing"> Land Use and Land Cover Classification using Deep Learning and Python GIS </a> by Ankur Mahesh and Issa Tingzon. [<a href="https://colab.research.google.com/drive/1Wj0LsIuotZssoQUw0QUryWk9WbOFIzV8?usp=sharing">Part 1</a>] [<a href="https://colab.research.google.com/drive/13I1wZT7thBlNdGA1tFQrK1MlRhMZMnpM?usp=sharing">Part 2</a>]
-* <a href="https://github.com/wwcodemanila/WWCodeManila-PyCon2018-Data"> Hello, World of Data!": Your ABC blocks in data handling, analysis, and visualization. </a> by Marylette Roa, Iris Uy, Issa Tingzon, Clau Yagyagan, and the WWCode Manila community presented during PyConPH 2018 at iAcademy Plaza, Gil Puyat Ave,. Makati City on February 25 2018.
+* <b>Crop Field Delineation using Semantic Segmentation in Pytorch.</b> [<a href="https://colab.research.google.com/drive/1VI8kVLjJMSabIt9Bu4di_zYe9LtrMO5L?usp=sharing">Part 1</a>] [<a href="https://colab.research.google.com/drive/1SUtvdW2ILUtf7vhLPZCTdpbf3pqisiU9?usp=sharing">Part 2</a>]
+* <b>Land Use and Land Cover Classification using Deep Learning and Python GIS </b> by Ankur Mahesh and Issa Tingzon. [<a href="https://colab.research.google.com/drive/1Wj0LsIuotZssoQUw0QUryWk9WbOFIzV8?usp=sharing">Part 1</a>] [<a href="https://colab.research.google.com/drive/13I1wZT7thBlNdGA1tFQrK1MlRhMZMnpM?usp=sharing">Part 2</a>]
+* <a href="https://github.com/wwcodemanila/WWCodeManila-PyCon2018-Data"> <b>Hello, World of Data!": Your ABC blocks in data handling, analysis, and visualization. </b></a> by Marylette Roa, Iris Uy, Issa Tingzon, Clau Yagyagan, and the WWCode Manila community presented during PyConPH 2018 at iAcademy Plaza, Gil Puyat Ave,. Makati City on February 25 2018.
