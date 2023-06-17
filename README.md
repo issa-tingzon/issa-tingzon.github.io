@@ -1,20 +1,16 @@
-# Hydejack Starter Kit
+## Personal Website
+This website template was sourced from: https://github.com/alshedivat/al-folio
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+### Local setup using Docker (Recommended on Windows)
+You need to take the following steps to get the website up and running in your local machine:
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+- First, install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/).
+- Run the following command that will pull a pre-built image from DockerHub and will run your website.
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+```bash
+$ docker-compose up
+```
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+Note that when you run it for the first time, it will download a docker image of size 300MB or so.
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+Now, feel free to customize the theme however you like (don't forget to change the name!). After you are done, you can use the same command (`docker-compose up`) to render the webpage with all you changes. Also, make sure to commit your final changes.
