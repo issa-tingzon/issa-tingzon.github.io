@@ -111,7 +111,7 @@ contact_note: >
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
-
+ga4_analytics: G-00JDF2BRKW
 google_analytics: G-00JDF2BRKW  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
