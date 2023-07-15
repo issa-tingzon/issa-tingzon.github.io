@@ -258,9 +258,9 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: '/tutorial/:year/'
-    tag: '/tutorial/tag/:name/'
-    category: '/tutorial/category/:name/'
+    year: '/tutorials/:year/'
+    tag: '/tutorials/tag/:name/'
+    category: '/tutorials/category/:name/'
 
 display_tags: ['earth-observation', 'computer-vision', 'image_classification', 'semantic-segmentation'] # these tags will be displayed on the front page of your tutorial
 
