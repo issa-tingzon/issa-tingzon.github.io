@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Issa, and welcome to my website!
 
-I'm currently a Disaster and Climate Risk Data Fellow at the <a href='https://www.gfdrr.org/en'>World Bank/GFDRR</a>. I also volunteer at <a href='https://www.womenwhocode.com/manila/about'>Women Who Code</a> and <a href='https://www.climatechange.ai/'>Climate Change AI</a>. 
+I'm a Disaster and Climate Risk Data Fellow at the <a href='https://www.gfdrr.org/en'>World Bank/GFDRR</a>. I also volunteer at <a href='https://www.womenwhocode.com/manila/about'>Women Who Code</a> and <a href='https://www.climatechange.ai/'>Climate Change AI</a>. 
 
 My work focuses mainly on the applications of machine learning/computer vision and earth observation for socioeconomic development, environmental sustainability, and humanitarian response. 
 
