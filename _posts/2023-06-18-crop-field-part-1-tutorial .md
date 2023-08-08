@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crop Field Delineation using U-Net in Pytorch (Part I)
+title: Crop Field Delineation using U-Net in Pytorch (Part 1/2)
 date: 2023-06-18 
 read_time: 30
 tags: computer-vision semantic-segmentation

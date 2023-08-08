@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Land Use & Land Cover Classification using Pytorch (Part I)
+title: Land Use & Land Cover Classification using Pytorch (Part 1/2)
 date: 2022-08-24 
 read_time: 30
 tags: computer-vision image-classification earth-observation

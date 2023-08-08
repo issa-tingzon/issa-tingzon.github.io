@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automating Crop Field Delineation using Python GIS (Part II)
+title: Automating Crop Field Delineation using Python GIS (Part 2/2)
 date: 2023-07-08
 read_time: 30
 tag: earth-observation

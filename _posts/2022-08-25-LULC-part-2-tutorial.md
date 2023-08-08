@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automating Land Use & Land Cover Mapping using Python GIS (Part II)
+title: Automating Land Use & Land Cover Mapping using Python GIS (Part 2/2)
 date: 2022-08-25
 read_time: 30
 tag: earth-observation
