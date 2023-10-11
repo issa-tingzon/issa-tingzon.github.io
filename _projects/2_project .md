@@ -5,6 +5,6 @@ description: ML and time-series satellite images for the rapid detection of info
 img: assets/img/project_preview/project-02.jpg
 redirect: https://stories.thinkingmachin.es/mapping-new-informal-settlements/
 github: https://github.com/thinkingmachines/geoai-immap
-importance: 3
+importance: 2
 category: machine-learning
 ---
