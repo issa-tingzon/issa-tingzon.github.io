@@ -6,5 +6,5 @@ read_time: 20
 tags: computer-vision earth-observation
 thumbnail: assets/img/post_preview/bldgs-01.png
 description: Learn how to automatically extract building footprints from aerial imagery (e.g. satellite images, drone images) using the Segment Anything Model (SAM).
-redirect: https://colab.research.google.com/github/GFDRR/caribbean-rooftop-classification/blob/add%2Ftutorials/tutorials/01_building_delineation.ipynb 
+redirect: https://colab.research.google.com/github/GFDRR/caribbean-rooftop-classification/blob/master/tutorials/01_building_delineation.ipynb
 ---
