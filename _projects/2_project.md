@@ -5,6 +5,6 @@ description: Rapid detection of informal migrant settlements in Colombia using M
 img: assets/img/project_preview/project-02.png
 redirect: https://stories.thinkingmachin.es/mapping-new-informal-settlements/
 github: https://github.com/thinkingmachines/geoai-immap
-importance: 2
+importance: 3
 category: machine-learning
 ---
