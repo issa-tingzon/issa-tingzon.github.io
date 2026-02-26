@@ -122,6 +122,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # tutorial
 # -----------------------------------------------------------------------------
 
+news_title: News
 tutorial_name: Tutorials # tutorial_name will be displayed in your tutorial page
 tutorial_nav_title: Tutorials # your tutorial must have a title for it to be displayed in the nav bar
 tutorial_description: Colab tutorial notebooks on ML and Earth Observation
